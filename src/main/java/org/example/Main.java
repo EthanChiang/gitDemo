@@ -10,5 +10,6 @@ public class Main {
         //Third commit
         //假裝切出一個功能來做,第一版 分支名function1
         //假裝切出一個功能來做,第二版 分支名function1
+        //假裝切出一個功能來做,第三版 這次用了rebase 成功看到一條新支線
     }
 }
